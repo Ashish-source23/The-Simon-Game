@@ -12,3 +12,7 @@ Next, the game shows the next colour say red, the user has to remember the seque
 If the user messes up the sequence, then the game ends.
 
 Thank You :)
+
+![image](https://user-images.githubusercontent.com/83506458/179387746-ea105c15-657d-4660-838b-25e78aa030d1.png)
+
+![image](https://user-images.githubusercontent.com/83506458/179387757-0f3efb46-9707-4f35-a079-6414abe794f0.png)
